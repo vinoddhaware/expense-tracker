@@ -1,6 +1,6 @@
 <h1 align="center"> Expense Tracker </h1>
 
-<h3> Startiug Page </h3>
+<h3> Starting Page </h3>
 
 ![expense-first-page](https://github.com/user-attachments/assets/579fc3e8-469a-4e4a-b922-1698bd419f59)
 
