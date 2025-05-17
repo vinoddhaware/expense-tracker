@@ -10,7 +10,7 @@ const GettingStarted = () => {
                 <h1 className='text-4xl'> Welcome to EXPENSES. </h1>
             </div>
             <div className='text-6xl'>
-                <NavLink to={'/login'}> <IoIosArrowDroprightCircle /> </NavLink>
+                <NavLink to={'/expense-tracker/login'}> <IoIosArrowDroprightCircle /> </NavLink>
             </div>
         </div>
         <p> The best way to track your Expenses. </p>

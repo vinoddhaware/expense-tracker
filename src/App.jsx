@@ -10,23 +10,23 @@ function App() {
   
   const router = createBrowserRouter([
     {
-      path: '/',
+      path: '/expense-tracker',
       element: <GettingStarted/>
     },
     {
-      path: '/login',
+      path: '/expense-tracker/login',
       element: <Login/>
     },
     {
-      path: '/',
+      path: '/expense-tracker/dashboard',
       element: <DashboardLayout/>,
       children: [
         {
-          path: '/dashboard',
+          path: '/expense-tracker/dashboard',
           element: <Home/>
         },
         {
-          path: '/Expense-history',
+          path: '/expense-tracker/Expense-history',
           element: <ExpenseHistory/>
         },
       ]
