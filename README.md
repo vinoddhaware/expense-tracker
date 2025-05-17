@@ -1,12 +1,9 @@
-# React + Vite
+<h1 align="center"> Expense Tracker </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![expense-first-page](https://github.com/user-attachments/assets/579fc3e8-469a-4e4a-b922-1698bd419f59)
 
-Currently, two official plugins are available:
+![expense-login](https://github.com/user-attachments/assets/70621905-a170-4030-8e80-6d091462bf94)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![expense-dashboard](https://github.com/user-attachments/assets/165077a8-f5a8-47b4-89a4-9a1acb62ad90)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h3 align="center"> <a href="https://vinoddhaware.github.io/expense-tracker/"> Access Here ->  </a> </h3>
