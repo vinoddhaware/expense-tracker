@@ -1,0 +1,27 @@
+step:1	create repositories name  PRODIGY_WD_02  and simple click on create repo.
+step:2	vscode	git init
+step:3		git add .
+step:4		git commit -m "add: initial files"
+step:5	copy site	git branch -M main
+step:6			git remote add origin https://github.com/vinoddhaware/PRODIGY_WD_02.git
+step:7	site refresh
+step:8	vscode go to vite.config.js 
+step:9			base: "/PRODIGY_WD_02/"
+step:10 copy .github folder and paste in PRODIGY_WD_02
+step:11	vscode	git add .
+step:12		git commit -m "add: deploy workflow"
+step:13		git push
+step:14	go to site	settings/actions/general/Workflow permissions --> check-> Read and write permissions and save
+step:15			action --> click add: deploy workflow --> click re--run jobs --> re-run failed jobs
+step:16			settings/pages/branch ---> select gh-pages and save
+step:17			action wait for page build and deploy
+step:18			setting/pages --link is ready
+
+
+
+
+https://github.com/ErickKS?tab=repositories
+
+https://github.com/vinoddhaware
+myPortfolio:-  https://vinoddhaware.github.io/PRODIGY_WD_04/
+myLinkedin profile:-  https://www.linkedin.com/in/vinod-dhaware-18a64217a/
