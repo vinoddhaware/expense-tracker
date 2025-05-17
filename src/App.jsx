@@ -26,7 +26,7 @@ function App() {
           element: <Home/>
         },
         {
-          path: '/expense-tracker/Expense-history',
+          path: '/expense-tracker/dashboard/Expense-history',
           element: <ExpenseHistory/>
         },
       ]
