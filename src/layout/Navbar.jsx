@@ -20,7 +20,7 @@ const Navbar = () => {
           </div>
             <ul className='hidden sm:flex sm:w-full items-center gap-6'>
                 <NavLink to={'/expense-tracker/dashboard'} className={'transition-all duration-300 ease-linear active:scale-95 hover:bg-gray-900'} ><li>Home</li></NavLink>
-                <NavLink to={'/expense-tracker/Expense-history'} className={'transition-all duration-300 ease-linear'}><li>Expense History</li></NavLink>
+                <NavLink to={'/expense-tracker/dashboard/Expense-history'} className={'transition-all duration-300 ease-linear'}><li>Expense History</li></NavLink>
             </ul>
 
             <div className=' sm:w-full flex justify-end items-center gap-4'>
