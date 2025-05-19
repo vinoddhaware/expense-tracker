@@ -22,7 +22,7 @@ function App() {
       element: <DashboardLayout/>,
       children: [
         {
-          path: '/expense-tracker/dashboard',
+          path: '/expense-tracker/dashboard/dashboard',
           element: <Home/>
         },
         {

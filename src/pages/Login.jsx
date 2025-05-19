@@ -22,7 +22,7 @@ const Login = () => {
     if (loginName.length > 15) return alert('Input must be less than 15 characters long.');
        
     setLoginData(loginName)
-    navigate('/expense-tracker/dashboard')
+    navigate('/expense-tracker/dashboard/dashboard')
     setLoginName('')
    }
 
